@@ -70,7 +70,7 @@ a:after {
 /* Header Wrap */
 .header {
   background: #1CBCAD;
-  background: url(../images/header-bg.jpg) no-repeat center top;
+  background: url(../images/portfolio.jpg) no-repeat center top;
   padding-top:140px;
   text-align:center;
   background-attachment: relative;
@@ -90,9 +90,10 @@ a:after {
 }
 
 .header h1 {
-  font-size: 80px;
+  font-size: 100px;
   color: white;
-  background: rgba(0,0,0,0.2);
+  background: rgba(0,0,0,0.7);
+
 }
 
 .header h3 {
