@@ -5,9 +5,9 @@ body{
 }
 .shadow{
     position: relative;
-    margin: 200px auto 0;
-    width: 30%;
-    height: 200px;
+    margin: 4vw auto 0;
+    width: 90%;
+    height: 100vh;
     background: linear-gradient(0deg,#000,#262626);
 }
 .shadow:before{
@@ -35,7 +35,7 @@ body{
         background-position: 0 0;
     }
      50%{
-        background-position: 300% 0;
+        background-position: 400% 0;
     }
 
      100%{
